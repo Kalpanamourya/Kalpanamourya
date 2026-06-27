@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kalpana Mourya
+# 👋 Hi there, I'm Kalpana
 
 🚀 **Full-Stack Software Developer | Cloud & DevOps Enthusiast**  
 🌱 Pursuing MCA with a specialization in Cloud Computing at Manipal University
